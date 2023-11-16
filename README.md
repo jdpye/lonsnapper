@@ -5,10 +5,10 @@ OTN makes Darwin Core archives that follow the same individual animal along a pa
 
 I am using a relatively new Python module, [lonboard](https://developmentseed.org/lonboard), to organize and serve the geospatial data efficiently, and avoid overwhelming the plotting engine when detection counts get into the millions. In this way, we can explore all of the paths at once.
 
-![all the paths published in v2.2 of the OTN - Nova Scotia Blue Sharks Darwin Core archive](media/lonboard-all-tracks.png)
+![all the paths published in v2.2 of the OTN - Nova Scotia Blue Sharks Darwin Core archive](media/lonboard-all-tracks-color.png)
 
 We can also isolate a single path over time.
 
-![single path of NSBS-Swaantje, a blue shark in the OTN - Nova Scotia Blue Sharks dataset.](media/lonboard-single-track.png)
+![single path of NSBS-Swaantje, a blue shark in the OTN - Nova Scotia Blue Sharks dataset.](media/lonboard-single-track-color.png)
 
 More features to come as I work them out.
